@@ -54,7 +54,7 @@ UniGrid is a modern social networking platform built specifically for university
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/unigrid-student-social-platform.git
+git clone https://github.com/upeka200163/UniGrid-student-social-platform.git
 cd unigrid-student-social-platform
 ```
 
